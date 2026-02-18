@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "project11",
+=======
+  "name": "project12",
+>>>>>>> 3ab3490b53b0a3c58d6c1dab8c85dc20cd024d71
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,8 +15,12 @@
   },
   "dependencies": {
     "react": "^19.2.0",
+<<<<<<< HEAD
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.13.0"
+=======
+    "react-dom": "^19.2.0"
+>>>>>>> 3ab3490b53b0a3c58d6c1dab8c85dc20cd024d71
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
